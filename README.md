@@ -29,3 +29,7 @@ The client was initially designed to assist with developing on small screen size
 # Installation
 - TODO: can we wrap this in a docker container or something so people don't actually have to install VueJS or something. I could just build it in vanilla JS also.
 
+# Dependencies
+- https://github.com/mysqljs/mysql
+- VueJS
+
